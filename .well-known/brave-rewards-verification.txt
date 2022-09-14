@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: amankiit.github.io
+Token: e29cfc58c9d3ffb351508f592d5e022543c0e81e6f2f3e19d5fa343b10276ecb
