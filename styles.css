@@ -10,17 +10,18 @@ body {
   position:relative;
 }
 
-
-
-
-.col-md-12{
-
-  
+.btnx{
+  background-color: rgb(134, 255, 196);
+  border:solid rgb(0, 0, 0) 3px;
 }
-.row{
-  
+.btnxx{
+  background-color: rgb(182, 209, 255);
+  border:solid rgb(0, 0, 0) 3px;
+}
 
-  
+.btnw{
+  background-color: rgb(61, 145, 255);
+
 }
 
 .r1{
@@ -79,7 +80,7 @@ body {
      
       
       font-family:sans-serif;
-        font-size: 50px;
+        font-size: 30px;
        
       
       }
@@ -119,7 +120,7 @@ body {
           font-weight: 800;
           
           font-family:sans-serif;
-            font-size: 38px;
+            font-size: 30px;
             text-align: center;
             margin-left: 0px;
             margin-top: 20px;
@@ -164,7 +165,7 @@ body {
           
              
               font-family:sans-serif;
-                font-size: 34px;
+                font-size: 28px;
                 text-align: center;
                 margin-top: 20px;
                 margin-left: auto;
@@ -243,7 +244,7 @@ body {
           
             
               font-family:sans-serif;
-                font-size: 40px;
+                font-size: 26px;
                 text-align: center;
                 margin-top: 10px;
                 margin-left: 30px;
@@ -372,7 +373,7 @@ body {
 .dark-mode {
   background-color: black;
   color: rgb(233, 233, 233);
-  
+
 
 }
 
