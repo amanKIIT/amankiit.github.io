@@ -3,6 +3,13 @@ html {
   scroll-behavior: smooth;
 }
 
+ :root {
+    --primary-color: grey;
+    --secondary-color: yellow;
+    --font-color: white;
+    --bg-color: black;
+    --heading-color: grey;
+}
 
 
 body {
